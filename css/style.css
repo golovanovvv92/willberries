@@ -68,6 +68,20 @@ body {
   background-position: top right 30%;
 }
 
+.slide-2 {
+  background-color: #C5E384 ;
+  background-image: url("../img/slide-image-2.png");
+  background-repeat: no-repeat;
+  background-position: top right 30%;
+}
+
+.slide-3 {
+  background-color: #FFCBDB;
+  background-image: url("../img/slide-image-3.png");
+  background-repeat: no-repeat;
+  background-position: top right 30%;
+}
+
 .label {
   background-color: #3dc47e;
   border-radius: 3px;
@@ -323,6 +337,14 @@ body {
   }
   .card-3 {
     background-size: cover;
+  }
+  .slide-title {
+    color: #fff;
+    text-shadow: 2px 2px 13px #000; 
+  }
+  .slide-description {
+    color: #fff;
+    text-shadow: 2px 2px 13px #000;
   }
 }
 
